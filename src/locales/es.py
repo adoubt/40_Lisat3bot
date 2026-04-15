@@ -5,7 +5,7 @@ You are now connected to an <b>AI-powered trading system</b> built on:
 
 • <a href="https://theclutch.dev/news/20260405-40"><u>TradingView</u></a>
 • <a href="https://www.chaincatcher.com/en/article/2096143"><u>Numerai</u></a>
-• <u>Custom indicator by Raj</u>
+• <u>Custom indicator by Lisa</u>
 
 <b>❓ How it works:</b>
 The system analyzes <b>market volatility</b>, <b>trend strength</b>, and <b>entry zones</b> to generate high-accuracy signals.
@@ -20,7 +20,7 @@ Monthly accuracy: <b>76% – 91%</b>
 Losing trades are normal and already included in the overall statistics 
 
 
-<i>Powered by: <b>Raj AI • Neural System</b></i>""",
+<i>Powered by: <b>Signals By Lisa | NEURAL_bot</b></i>""",
 
     "activate_access":"""🔑Each user receives a personal access key. Please message me directly to get yours and activate access.
 
