@@ -24,15 +24,15 @@ Losing trades are normal and already included in the overall statistics
 
     "activate_access":"""🔑Each user receives a personal access key. Please message me directly to get yours and activate access.
 
-@Raja_Personal_bot
-@Raja_Personal_bot""",
+@Traderr_Lisa_not_bot
+@Traderr_Lisa_not_bot""",
 
 
     "activated successfully":"""<i>Your access has been successfully activated ✅
 Your account has been successfully linked to Pocket Option ✅</i>""",
     "blocked": """🚨<b>Attention</b>🚨
 
-❌ @Raja_Personal_bot has blocked your access. To restore it, contact me in  <a href="https://t.me/Raja_Personal_bot">chat</a> ❌""",
+❌ @Traderr_Lisa_not_bot has blocked your access. To restore it, contact me in <a href="https://t.me/Traderr_Lisa_not_bot">chat</a> ❌""",
     "currency_pairs": """<b>To receive a signal, you need to select a currency pair</b>""",
     "after_signal": """<u>10 seconds to enter the trade have passed!</u>
 If you have not entered the trade, it is better to request a new signal""",

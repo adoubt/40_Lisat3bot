@@ -176,7 +176,7 @@ async def admin(message: Message, is_clb=False,**kwargs):
 /start - Выйти из админки
 /admin - Ты сейчас здесь
 
-<a href="https://github.com/adoubt/39_Raja_Personal_bot">github</a>"""
+<a href="https://github.com/adoubt/40_Lisat3bot">github</a>"""
 ,link_preview_options=LinkPreviewOptions(is_disabled=True),parse_mode='HTML',reply_markup=user_keyboards.get_admin_kb())
 
 @router.message(Command("redakt_post"))
@@ -605,7 +605,7 @@ async def fallback_handler(message: Message, **kwargs):
     if is_activated == 0:
         await message.answer(LOCALES["activate_access"], parse_mode="HTML")
     else:
-        await message.answer("Unrecognized text.\n\nUse /signals to get trading signals or <b>contact me</b> directly<b>\n@Raja_Personal_bot</b>", parse_mode="HTML")
+        await message.answer("Unrecognized text.\n\nUse /signals to get trading signals or <b>contact me</b> directly<b>\n@Traderr_Lisa_not_bot</b>", parse_mode="HTML")
 
 
 

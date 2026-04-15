@@ -61,7 +61,7 @@ mkdir ~/bot && cd ~/bot
 ```
 - Скачиваем бота
 ```bash
-git clone https://github.com/adoubt/39_Raja_Personal_bot.git
+git clone https://github.com/adoubt/40_Lisat3bot
 ```
 - Создаём виртуальное окружение
 ```bash
